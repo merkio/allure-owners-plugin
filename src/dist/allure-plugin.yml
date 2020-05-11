@@ -1,0 +1,7 @@
+id: owners
+name: Owners
+description: The aggregator adds owners tab to the report
+extensions:
+  - io.qameta.allure.owners.OwnersPlugin
+jsFiles:
+  - index.js
